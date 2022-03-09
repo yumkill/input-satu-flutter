@@ -1,6 +1,6 @@
 # input_text_satu
 
-A new Flutter project.
+Input Sederhana untuk Pemula
 
 ## Getting Started
 
