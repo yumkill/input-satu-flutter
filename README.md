@@ -1,6 +1,6 @@
 # input_text_satu
 
-Input Sederhana untuk Pemula
+Input Sederhana Menggunakan OnChanged
 
 ## Getting Started
 
