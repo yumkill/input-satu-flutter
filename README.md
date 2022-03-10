@@ -1,6 +1,6 @@
 # input_text_satu
 
-Input Sederhana Menggunakan OnChanged
+Input Sederhana Menggunakan onSubmitted
 
 ## Getting Started
 
